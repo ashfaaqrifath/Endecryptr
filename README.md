@@ -1,7 +1,6 @@
-# Password-Manager
+# Encryption-decryption
 
-Generates cryptographically secure passwords and lets the user add their own passwords and save it in a desired folder. This program uses the secrets module availabe in python 3.6 and above. The pyttsx3 module reads out all the outputs produced by this program.
-
+This is a program written in python which allows to encrypt and decrypt files securely. The pyttsx3 module narrates outputs produced by the pogram but narration can be disabled.
 
 ## Coded by
 
@@ -9,23 +8,16 @@ Generates cryptographically secure passwords and lets the user add their own pas
 
 
 ## Installation
-* String
+* Cryptography
 ```
-  pip install string
+  pip install cryptography
 ```
 
-* Secrets
-```
-  pip install secrets
-```
 * Colorama
 ```
   pip install colorama
 ```
-* os
-```
-  pip install os
-```
+
 * Pyttsx3
 ```
   pip install pyttsx3
