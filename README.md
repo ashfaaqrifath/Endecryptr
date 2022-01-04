@@ -4,7 +4,7 @@ This is a program written in python which allows to encrypt and decrypt files se
 
 ## Coded by
 
-- [@ashfaaqrfth](https://ashfaaq.epizy.com/)
+- [@ashfaaqrifath](https://ashfaaq.epizy.com/)
 
 
 ## Installation
