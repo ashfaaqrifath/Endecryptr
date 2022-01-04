@@ -2,10 +2,9 @@
 
 This is a program written in python which allows to encrypt and decrypt files securely. The pyttsx3 module narrates outputs produced by the pogram but narration can be disabled.
 
-## Coded by
+## Coded by💻
 
-- [@ashfaaqrifath](https://ashfaaq.epizy.com/)
-
+- [ashfaaqrifath](https://github.com/ashfaaqrifath/)
 
 ## Installation
 * Cryptography
