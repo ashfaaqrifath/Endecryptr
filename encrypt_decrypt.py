@@ -4,7 +4,7 @@ import colorama
 from colorama import Fore, Back
 colorama.init(autoreset=True)
 
-print(Fore.BLACK + Back.BLUE + " ENCRYPT AND DECRYPT ")
+print(Fore.BLACK + Back.BLUE + " ENDECRYPTER ")
 print("Copyright (c) 2022 Ashfaaq Rifath")
 
 #engine = pyttsx3.init()
