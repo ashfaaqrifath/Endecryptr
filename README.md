@@ -25,7 +25,7 @@ This is a program written in python which allows to encrypt and decrypt files se
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 ![MIT License](https://img.shields.io/github/followers/ashfaaqrifath?style=social)
-![MIT License](https://img.shields.io/github/stars/ashfaaqrifath/Password-Manager?style=social)
+![MIT License](https://img.shields.io/github/stars/ashfaaqrifath/Endecrypter?style=social)
 
 ## License
 
