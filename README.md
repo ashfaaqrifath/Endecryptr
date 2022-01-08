@@ -6,7 +6,7 @@ This is a program written in python which allows to encrypt and decrypt files se
 
 - [ashfaaqrifath](https://github.com/ashfaaqrifath/)
 
-## Installation
+## Modules used
 * Cryptography
 ```
   pip install cryptography
