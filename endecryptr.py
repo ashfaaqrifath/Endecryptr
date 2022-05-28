@@ -101,3 +101,9 @@ else:
     #engine = pyttsx3.init()
     #engine.say(speak12)
     #engine.runAndWait()
+
+    
+    
+    
+    
+# <<< Copyright (c) 2022 Ashfaaq Rifath - Endecryptr v1.0.1 >>>
