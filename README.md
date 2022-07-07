@@ -38,8 +38,12 @@ This is a program written in python which allows to encrypt and decrypt files se
 
 ## License
 
-Copyright © 2022 Ashfaaq Rifath - Endecryptr v1.0.1 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) 
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+Copyright © 2022 Ashfaaq Rifath - Endecryptr 
 
 
 ##
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<h1 align="center">
+  <img width="300" src="https://ashfaaqrifath.github.io/aqlogo9.png" alt="Ashfaaq">
+</h1>
